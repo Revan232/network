@@ -1,0 +1,10 @@
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\bin\Debug\ATS_714220070.exe.config
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\bin\Debug\ATS_714220070.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\bin\Debug\ATS_714220070.pdb
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.csproj.AssemblyReference.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.Form1.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.Properties.Resources.resources
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.csproj.GenerateResource.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.csproj.CoreCompileInputs.cache
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.exe
+C:\Users\Irgi Achmad Fauzi\Downloads\Rv\PemogramanII_PBO\nama\ATS_Pemrograman\ATS_714220070\ATS_714220070\obj\Debug\ATS_714220070.pdb
